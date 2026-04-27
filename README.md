@@ -1,5 +1,7 @@
 ## E-Commerce Sales Dashboard 
-ecom express.png
+
+
+![E-Commerce Dashboard](ecom-dashboard.png)
 ---
 
 ###  Project Overview  
