@@ -1,6 +1,6 @@
 ## E-Commerce Sales Dashboard 
 
-![E-Commerce Dashboard](ecom-dashboard.png)
+![E-Commerce Dashboard](ecom express.png)
 
 ---
 
